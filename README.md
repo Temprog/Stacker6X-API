@@ -106,7 +106,7 @@ Content-Type: application/json
   Core machine learning repository containing training code, preprocessing, model artifacts, evaluation, configuration, notebooks, utilities and deployment simulation.  
 - 🛡️ [Stacker6X Backend (Flask REST API)](https://github.com/Temprog/Stacker6X-API)  
   Flask REST API for serving predictions from the trained model, with an added regex-based guardrail to reduce false positives.  
-- 🎨 [Stacker6X Frontend (HTML/JS UI)](https://github.com/Temprog/Stacker6X-frontend)  
+- 🎨 [Stacker6X Frontend for API (HTML/JS UI)](https://github.com/Temprog/Stacker6X-frontend)  
   Lightweight web interface for interacting with the backend API and visualizing predictions.  
 
 

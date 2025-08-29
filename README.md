@@ -1,5 +1,5 @@
 # Stacker6X-API
-Flask REST API for Stacker6X ML model detecting SQLi/XSS with regex-based guardrails
+Flask REST API enabling the Stacker6X ML model to detect SQL injection (SQLi) and cross-site scripting (XSS) vulnerabilities.
 
 
 ## 🛡️ Stacker6X Backend
